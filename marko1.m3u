@@ -376,21 +376,21 @@ https://edge.enhdtv.com/exitotv/index.m3u8
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-chno="189" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-id="ENTMain.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas",ENT Channel
+#EXTINF:-1  tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine / Películas",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTFamily.40mediaGroup" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas",ENT Family
+#EXTINF:-1  tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine / Películas",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTExtreme.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine / Películas",ENT Extreme
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine / Películas",ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTComedy.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine / Películas",ENT Comedy
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine / Películas",ENT Comedy
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTMovies.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="Cine / Películas",ENT Móvies
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png" group-title="Cine / Películas",ENT Móvies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTDrama.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Cine / Películas",ENT Drama
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png" group-title="Cine / Películas",ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTClassic.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="Cine / Películas",ENT Classic
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png" group-title="Cine / Películas",ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTLife.40mediaGroup" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine / Películas",ENT Life
+#EXTINF:-1  tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine / Películas",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-chno="191",CINELATINO
 http://205.235.6.29:8000/play/a0yq/index.m3u8?hls
@@ -1130,3 +1130,4 @@ http://45.224.150.120:8000/play/a0qi/index.m3u8
 http://38.224.22.255:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-chno="546" tvg-id="AcapulcoShore.us@LatAm",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
